@@ -18,7 +18,7 @@ Relevant Courses: Data Structures & Algorithms, Object-Oriented Programming, Sys
 
 ## Experience
 
-**Graduate Student Instructor** — University of Michigan | Jan 2026 – Present
+**Graduate Student Instructor** — University of Michigan | Jan 2026 – April 2026
 - Support in-class instruction through labs, activities, and discussions for core data science course.
 - Hold weekly office hours to help students with programming assignments, data analysis concepts, and projects.
 - Grade homework, labs, and projects, providing detailed, actionable feedback to improve students' skills.
