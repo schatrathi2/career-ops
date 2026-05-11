@@ -4,7 +4,7 @@ sruthi.chatrathi@gmail.com | 404-775-8958 | linkedin.com/in/sruthi-chatrathi | g
 
 ## Summary
 
-MSI Data Analytics graduate student with a Computer Science background and hands-on experience in Python, SQL, and Java. Proven ability to translate complex datasets into actionable insights, develop impactful tools, and collaborate cross-functionally on technical and research-focused teams.
+MSI Data Analytics graduate student with a Computer Science background and hands-on experience in Python, SQL, and Java, and a Data Analytics Pathway Award Winner at the 2026 UMSI Expo. Experience in translating data into actionable insights, building tools, and collaborating across technical and research teams.
 
 ## Education
 
